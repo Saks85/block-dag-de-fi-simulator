@@ -63,5 +63,5 @@ This project was built for **HackOdisha 5 (2024)** under the BlockDAG problem st
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blockdag-defi-simulator.git
+git clone https://github.com/TaNiShK1911/blockdag-defi-simulator.git
 cd blockdag-defi-simulator
