@@ -7,7 +7,7 @@
 The **BlockDAG DeFi Simulator** is an interactive platform that demonstrates how **BlockDAG technology** can supercharge decentralized finance (DeFi).  
 Instead of sequential block confirmations like traditional blockchains, BlockDAG allows **parallel transaction processing**, leading to higher throughput, faster confirmations, and scalability for real-world DeFi use cases.
 
-This project was built for **HackOdisha 5 (2024)** under the BlockDAG problem statement.
+This project was built for **HackOdisha 5 (2025)** under the BlockDAG problem statement.
 
 ---
 
